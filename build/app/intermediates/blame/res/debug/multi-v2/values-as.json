@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/alexander/Documentos/Proyectos/FlutterLaundryApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+            "map": [
+                {
+                    "source": "/home/alexander/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5accd54a35d5c69d5e2d4eae1dc8227d/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
